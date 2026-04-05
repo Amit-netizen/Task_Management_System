@@ -18,7 +18,7 @@ Users can register, log in, and manage their personal tasks with full CRUD opera
 | Auth | JWT (jsonwebtoken) + bcryptjs |
 | Validation | Zod |
 | Frontend framework | Next.js 15 (App Router) |
-| UI library | React 19 |
+| UI library | React 18 |
 | Styling | Tailwind CSS 3 |
 | Forms | React Hook Form + Zod |
 | HTTP client | Axios (with silent refresh interceptor) |
@@ -124,8 +124,8 @@ Task_Management_System/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/task-manager.git
-cd task-manager
+git clone https://github.com/Amit-netizen/Task_Management_System.git
+cd Task_Management_System
 ```
 
 ### 2. Backend setup
